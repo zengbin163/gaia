@@ -19,7 +19,7 @@ import java.util.List;
 /**
  * In TCP/IP, Netty reads the data sent from a peer into a ByteBuf.
  * <p>
- * Created by 张少昆 on 2018/5/14.
+ * Created by zengbin on 2018/5/14.
  */
 public class TimeClient {
     int port;

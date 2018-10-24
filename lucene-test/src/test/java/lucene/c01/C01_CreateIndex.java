@@ -37,7 +37,7 @@ import java.util.List;
  * <p>
  * FIXME 卧槽，IK分词器不支持新版本lucene！所以lucene又切换成4.10.4
  * <p>
- * Created by 张少昆 on 2018/3/31.
+ * Created by zengbin on 2018/3/31.
  */
 public class C01_CreateIndex {
 

@@ -8,7 +8,7 @@ import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 /**
- * Created by 张少昆 on 2018/10/22.
+ * Created by zengbin on 2018/10/22.
  */
 public class FlatMapTest {
     @Test

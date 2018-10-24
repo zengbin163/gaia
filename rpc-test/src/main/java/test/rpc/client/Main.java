@@ -6,7 +6,7 @@ import test.rpc.pojo.User;
 import java.lang.reflect.Proxy;
 
 /**
- * Created by 张少昆 on 2018/10/20.
+ * Created by zengbin on 2018/10/20.
  */
 public class Main {
     public static void main(String[] args){

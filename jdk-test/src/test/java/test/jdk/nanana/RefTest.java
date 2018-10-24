@@ -8,7 +8,7 @@ import java.util.Date;
 /**
  * 一切正常。
  * <p>
- * Created by 张少昆 on 2018/5/23.
+ * Created by zengbin on 2018/5/23.
  */
 public class RefTest {
     static volatile Date date = null;

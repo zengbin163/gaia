@@ -7,7 +7,7 @@ import java.util.Date;
  * <p>
  * String就没有实现，所以不支持clone操作。
  * <p>
- * Created by 张少昆 on 2018/4/18.
+ * Created by zengbin on 2018/4/18.
  */
 public class Main {
     public static void main(String[] args) throws CloneNotSupportedException{

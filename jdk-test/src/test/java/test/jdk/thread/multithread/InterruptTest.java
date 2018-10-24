@@ -3,7 +3,7 @@ package test.jdk.thread.multithread;
 import org.junit.Test;
 
 /**
- * Created by 张少昆 on 2018/4/16.
+ * Created by zengbin on 2018/4/16.
  */
 public class InterruptTest {
 

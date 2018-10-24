@@ -15,7 +15,7 @@ import spark.util.LoggerUtils;
  * <p>
  * 说明：Java请使用JavaSparkContext，用法一致，但过滤一些scala的东西。
  * <p>
- * Created by 张少昆 on 2018/4/28.
+ * Created by zengbin on 2018/4/28.
  */
 public class SparkContextTest {
     public static void main(String[] args){

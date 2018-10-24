@@ -15,7 +15,7 @@ import java.util.Map;
  * Kafka内部创建topic的类！
  * 还可以进行各种管理操作！创建、更改、删除 - topic、partition、record、acl！我擦，牛逼啊！
  * <p>
- * Created by 张少昆 on 2018/5/4.
+ * Created by zengbin on 2018/5/4.
  */
 public class AdminClientTest {
 

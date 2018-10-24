@@ -18,7 +18,7 @@ import java.util.Iterator;
  * 再轮询事件，根据不同的事件执行不同的操作！
  * 执行完操作之后，再注册新的事件！！！--就是告诉对方这个事件的动作我已经搞定了，可以进行下一个动作了！！！！
  * <p>
- * Created by 张少昆 on 2017/12/5.
+ * Created by zengbin on 2017/12/5.
  */
 public class Client {
     @Test

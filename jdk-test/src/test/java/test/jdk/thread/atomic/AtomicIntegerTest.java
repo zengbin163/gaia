@@ -10,7 +10,7 @@ import java.util.concurrent.atomic.AtomicInteger;
  * LongAdder由多个变量组成，所有变量的和即为当前值。
  * 当存在高度竞争时，请使用LongAdder代替AtomicLong。
  * <p>
- * Created by 张少昆 on 2017/10/6.
+ * Created by zengbin on 2017/10/6.
  */
 public class AtomicIntegerTest {
 

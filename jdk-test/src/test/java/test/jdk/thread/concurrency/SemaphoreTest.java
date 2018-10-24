@@ -17,7 +17,7 @@ import java.util.concurrent.Semaphore;
  * 区别就是，semaphore的线程只是被挂起，但总线程的数量不变。
  * 而FixedThreadPool则是只能有N个线程启动。
  * <p>
- * Created by 张少昆 on 2017/9/8.
+ * Created by zengbin on 2017/9/8.
  */
 public class SemaphoreTest {
 	@Test

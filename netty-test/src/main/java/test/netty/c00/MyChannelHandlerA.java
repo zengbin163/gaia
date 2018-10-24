@@ -10,7 +10,7 @@ import io.netty.channel.ChannelPromise;
 import java.net.SocketAddress;
 
 /**
- * Created by 张少昆 on 2018/5/11.
+ * Created by zengbin on 2018/5/11.
  */
 class MyChannelHandlerList {
     //TODO 不明白的是，这里只有被添加/删除和异常，那神马时候调用业务逻辑？？

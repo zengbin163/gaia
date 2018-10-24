@@ -3,7 +3,7 @@ package test.jvm.gc;
 /**
  * TODO 注意JDK的版本！包括编译版本和运行版本。
  * <p>
- * Created by 张少昆 on 2018/3/28.
+ * Created by zengbin on 2018/3/28.
  */
 public class GC {
     public static final int _1MB = 1024 * 1024;

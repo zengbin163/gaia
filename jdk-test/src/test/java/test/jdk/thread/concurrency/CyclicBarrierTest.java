@@ -11,7 +11,7 @@ import java.util.concurrent.CyclicBarrier;
  * CountDownLatch则是所有线程完成之后，再执行主线程。
  * 注意：是循环的！！！每N个线程，就执行一次唤醒！！！
  * <p>
- * Created by 张少昆 on 2017/9/6.
+ * Created by zengbin on 2017/9/6.
  */
 public class CyclicBarrierTest {
 

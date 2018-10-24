@@ -11,7 +11,7 @@ import java.time.LocalDateTime;
  * <p>
  * 最佳例子：聊天的客户端，需要后台查询，但是，退出聊天的时候，不需要去管后台，直接关闭即可！- 当然也不太合理，不过方便理解就是。
  * <p>
- * Created by 张少昆 on 2018/5/28.
+ * Created by zengbin on 2018/5/28.
  */
 public class DaemonThread {
     public static void main(String[] args){

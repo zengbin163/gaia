@@ -19,7 +19,7 @@ import io.netty.handler.codec.http.HttpVersion;
 import java.nio.charset.StandardCharsets;
 
 /**
- * Created by 张少昆 on 2018/5/26.
+ * Created by zengbin on 2018/5/26.
  */
 public class HttpClient {
     public static void main(String[] args){

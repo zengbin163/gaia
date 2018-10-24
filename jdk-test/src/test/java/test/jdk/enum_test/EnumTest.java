@@ -6,7 +6,7 @@ import org.junit.Test;
  * 注意，enum其实都是实现了Enum抽象类。
  * Class类有判断cls是否Enum的操作。
  * <p>
- * Created by 张少昆 on 2017/11/20.
+ * Created by zengbin on 2017/11/20.
  */
 public class EnumTest {
     enum Week {

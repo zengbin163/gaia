@@ -8,7 +8,7 @@ import java.util.concurrent.CompletableFuture;
 /**
  * TODO 需要练习下CompletableFuture的用法，然后再看看Mono.fromFuture
  * <p>
- * Created by 张少昆 on 2018/3/14.
+ * Created by zengbin on 2018/3/14.
  */
 public class C02_more {
     @Test

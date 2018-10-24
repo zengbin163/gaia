@@ -8,7 +8,7 @@ import java.util.concurrent.atomic.AtomicReference;
 /**
  * <b>两个</b>线程之间交换数据 -- 可自行扩展至多个线程。
  * <p>
- * Created by 张少昆 on 2017/9/23.
+ * Created by zengbin on 2017/9/23.
  */
 public class ExchangerTest {
     public static void main(String[] args){

@@ -7,7 +7,7 @@ import org.apache.hadoop.mapreduce.Reducer;
 import java.io.IOException;
 
 /**
- * Created by 张少昆 on 2018/5/23.
+ * Created by zengbin on 2018/5/23.
  */
 public class DemoReducer extends Reducer<Text, IntWritable, Text, IntWritable> {
 

@@ -13,7 +13,7 @@ import java.util.Arrays;
  * <p>
  * 评价：毫无新意的东西，勉强可一用。
  * <p>
- * Created by 张少昆 on 2018/5/3.
+ * Created by zengbin on 2018/5/3.
  */
 public class CharArrayWriterTest {
     @Test

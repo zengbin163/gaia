@@ -13,7 +13,7 @@ import java.util.concurrent.atomic.LongAdder;
  * 当存在高度竞争时，请使用LongAdder代替AtomicLong。
  * LongAccumulator更加灵活，可以自行指定操作。可以认为LongAdder是LongAccumulator的一个特例。
  * <p>
- * Created by 张少昆 on 2017/10/6.
+ * Created by zengbin on 2017/10/6.
  */
 public class LongAdderTest {
 

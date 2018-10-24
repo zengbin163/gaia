@@ -9,7 +9,7 @@ import java.nio.charset.StandardCharsets;
 import java.util.Base64;
 
 /**
- * Created by 张少昆 on 2017/12/12.
+ * Created by zengbin on 2017/12/12.
  */
 public class DecodeTest {
     private String str = "/user/huge/xx/.Trash";

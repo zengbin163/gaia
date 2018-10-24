@@ -13,7 +13,7 @@ import org.junit.Test;
  * ehcache有编码式配置和XML配置。
  * 编码式配置，一般使用builder来构建。 - 编码式配置自3.3版本起有效。
  * <p>
- * Created by 张少昆 on 2017/12/28.
+ * Created by zengbin on 2017/12/28.
  */
 public class JavaConfig_1 {
     @Test

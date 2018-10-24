@@ -27,7 +27,7 @@ import java.util.Properties;
  * <p>
  * TODO 要注意，server.properties中有一个group.initial.rebalance.delay.ms=0，是为了开发测试用的，生产中需要设为3！！！
  * <p>
- * Created by 张少昆 on 2018/4/25.
+ * Created by zengbin on 2018/4/25.
  */
 public class C01 {
     public static final Properties props = new Properties();

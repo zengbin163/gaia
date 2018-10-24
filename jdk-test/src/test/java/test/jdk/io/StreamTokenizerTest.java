@@ -10,7 +10,7 @@ import java.io.StreamTokenizer;
 import java.nio.charset.Charset;
 
 /**
- * Created by 张少昆 on 2018/5/8.
+ * Created by zengbin on 2018/5/8.
  */
 public class StreamTokenizerTest {
     String str = "1\tfake record1\t2018-04-20 14:16:27\t2018-04-20 14:17:05\t2018-04-20 14:16:31\t\t0\t0\t0\tselect * from hehe;\t/tmp/log/\t2\t319\tfake record1\n" +

@@ -3,7 +3,7 @@ package test.jvm;
 import java.util.Date;
 
 /**
- * Created by 张少昆 on 2018/3/23.
+ * Created by zengbin on 2018/3/23.
  */
 public class CloneTest implements Cloneable {
     private Date date;

@@ -24,7 +24,7 @@ import java.util.Iterator;
  * 一旦有ACCEPT事件，就可以准备accept()以创建链接了。
  * 如果创建了链接，就返回SocketChannel对象，然后就是SocketChannel之间的操作啦！！！
  *
- * Created by 张少昆 on 2017/12/5.
+ * Created by zengbin on 2017/12/5.
  */
 public class Server {
     @Test

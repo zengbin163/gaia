@@ -3,7 +3,7 @@ package test.jdk.concurrency;
 /**
  * 测试匿名类的this和lambda的this，二者的区别！
  *
- * Created by 张少昆 on 2017/9/13.
+ * Created by zengbin on 2017/9/13.
  */
 public class ThisTest {
 	public static void main(String[] args){

@@ -1,7 +1,7 @@
 package test.jdk.enum_test;
 
 /**
- * Created by 张少昆 on 2018/1/12.
+ * Created by zengbin on 2018/1/12.
  */
 public enum TemplateEnum {
     SOURCE_FILE("IDEAL-CAP", "source_file.template"),

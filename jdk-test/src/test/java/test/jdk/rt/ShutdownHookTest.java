@@ -5,7 +5,7 @@ import org.junit.Test;
 /**
  * 当JVM开始shutdown sequence时，会无序的调用所有已注册的钩子。
  * <p>
- * Created by 张少昆 on 2018/5/7.
+ * Created by zengbin on 2018/5/7.
  */
 public class ShutdownHookTest {
 

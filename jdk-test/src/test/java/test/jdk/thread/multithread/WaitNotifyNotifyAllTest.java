@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by 张少昆 on 2017/9/7.
+ * Created by zengbin on 2017/9/7.
  */
 public class WaitNotifyNotifyAllTest {
 	public static void main(String[] args){

@@ -13,7 +13,7 @@ import javax.jms.TopicSubscriber;
 import java.io.IOException;
 
 /**
- * Created by 张少昆 on 2018/3/17.
+ * Created by zengbin on 2018/3/17.
  */
 public class TopicSub {
     private static final String BROKER_URL = "tcp://127.0.0.1:61616";

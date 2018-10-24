@@ -10,7 +10,7 @@ import java.util.prefs.Preferences;
  * TODO 看起来，更像是Java应用用来保存信息的一种手段。
  * 类似Properties，但更佳。且保存位置随OS不同而不同。
  *
- * Created by 张少昆 on 2018/1/15.
+ * Created by zengbin on 2018/1/15.
  */
 public class PreferencesTest {
 

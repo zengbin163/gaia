@@ -11,7 +11,7 @@ import java.net.ServerSocket;
 import java.net.Socket;
 
 /**
- * Created by 张少昆 on 2017/11/4 0004.
+ * Created by zengbin on 2017/11/4 0004.
  */
 public class SocketTest {
 

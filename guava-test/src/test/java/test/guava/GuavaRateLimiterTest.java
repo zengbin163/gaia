@@ -9,13 +9,13 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Created by 张少昆 on 2017/9/5.
+ * Created by zengbin on 2017/9/5.
  */
 public class GuavaRateLimiterTest {
 
     @Test
     public void r1() throws InterruptedException{
-        RateLimiter rateLimiter = RateLimiter.create(3.0);
+        RateLimiter rateLimiter = RateLimiter.create(2.0);
 
         for(int i = 0; i != 10; ++i){
 //			System.out.println("---第 " + i + " 次执行，时间是：" + Instant.now().getEpochSecond());

@@ -10,7 +10,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Created by 张少昆 on 2017/12/11.
+ * Created by zengbin on 2017/12/11.
  */
 public class BeanUtilsTest {
     private User user;

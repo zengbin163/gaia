@@ -15,7 +15,7 @@ import java.util.Iterator;
  * <p>
  * 本例就是练习环形队列，不考虑并发、泛型等情况！
  * <p>
- * Created by 张少昆 on 2018/3/6.
+ * Created by zengbin on 2018/3/6.
  */
 public class CircleQueue implements Iterable<Integer> {
     /*** 容量，指队列底层数组的长度 */

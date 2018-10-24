@@ -7,7 +7,7 @@ import java.util.Random;
 import java.util.stream.IntStream;
 
 /**
- * Created by 张少昆 on 2018/10/22.
+ * Created by zengbin on 2018/10/22.
  */
 public class SummaryTest {
     @Test

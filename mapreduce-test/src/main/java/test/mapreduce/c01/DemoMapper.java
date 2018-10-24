@@ -12,7 +12,7 @@ import java.io.IOException;
  * <p>
  * 注意，Mapper还有几个方法，其中run()需要关注一下。setup方法与context有关。
  * <p>
- * Created by 张少昆 on 2018/5/23.
+ * Created by zengbin on 2018/5/23.
  */
 public class DemoMapper extends Mapper<LongWritable, Text, Text, IntWritable> {
 

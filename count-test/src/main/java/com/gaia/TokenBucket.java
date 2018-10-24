@@ -10,7 +10,7 @@ import java.util.concurrent.Executors;
 /**
  * 令牌桶
  * <p>
- * Created by 张少昆 on 2017/9/13.
+ * Created by zengbin on 2017/9/13.
  */
 public class TokenBucket {
     private static final ConcurrentHashMap<String, RateLimiter> LIMITER_CONCURRENT_MAP = new ConcurrentHashMap<>();

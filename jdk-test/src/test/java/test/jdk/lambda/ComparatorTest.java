@@ -16,7 +16,7 @@ import java.util.stream.Stream;
  * DoubleStream.collect，见r2()。
  * 再看r1()的排序。
  * <p>
- * Created by 张少昆 on 2018/1/27.
+ * Created by zengbin on 2018/1/27.
  */
 public class ComparatorTest {
 

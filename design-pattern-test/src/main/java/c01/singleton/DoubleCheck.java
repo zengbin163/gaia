@@ -6,7 +6,7 @@ package c01.singleton;
  * 优点：懒加载；且只有第一次是同步；
  * 缺点：由于编译器优化以及JVM底层模型，导致偶尔出现问题，不建议使用。
  * <p>
- * Created by 张少昆 on 2018/4/17.
+ * Created by zengbin on 2018/4/17.
  */
 public class DoubleCheck {
     private DoubleCheck(){

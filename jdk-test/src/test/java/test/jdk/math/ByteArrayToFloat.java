@@ -9,7 +9,7 @@ import java.nio.ByteBuffer;
 import java.util.Arrays;
 
 /**
- * Created by 张少昆 on 2017/12/19.
+ * Created by zengbin on 2017/12/19.
  */
 public class ByteArrayToFloat {
 

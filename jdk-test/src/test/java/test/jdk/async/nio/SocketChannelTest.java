@@ -10,7 +10,7 @@ import java.nio.channels.SocketChannel;
 import java.nio.charset.StandardCharsets;
 
 /**
- * Created by 张少昆 on 2017/10/10.
+ * Created by zengbin on 2017/10/10.
  */
 public class SocketChannelTest {
     @Test

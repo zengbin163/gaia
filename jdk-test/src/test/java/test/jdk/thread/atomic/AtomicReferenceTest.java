@@ -8,7 +8,7 @@ import java.util.concurrent.atomic.AtomicReference;
 /**
  * 把之前的Integer或者Long换成引用对象就行。逻辑完全一致。
  *
- * Created by 张少昆 on 2018/5/13.
+ * Created by zengbin on 2018/5/13.
  */
 public class AtomicReferenceTest {
 

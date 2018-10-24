@@ -3,7 +3,7 @@ package commons.test.entity;
 import org.apache.commons.lang3.builder.ToStringBuilder;
 
 /**
- * Created by 张少昆 on 2017/12/11.
+ * Created by zengbin on 2017/12/11.
  */
 public class User {
     private String name;

@@ -6,7 +6,7 @@ import ch.qos.logback.classic.LoggerContext;
 import org.slf4j.impl.StaticLoggerBinder;
 
 /**
- * Created by 张少昆 on 2018/4/27.
+ * Created by zengbin on 2018/4/27.
  */
 public class LoggerUtils {
 

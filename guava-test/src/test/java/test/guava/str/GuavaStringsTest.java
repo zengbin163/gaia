@@ -4,7 +4,7 @@ import com.google.common.base.Strings;
 import org.junit.Test;
 
 /**
- * Created by 张少昆 on 2017/10/10.
+ * Created by zengbin on 2017/10/10.
  */
 public class GuavaStringsTest {
 	@Test

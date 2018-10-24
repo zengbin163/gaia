@@ -24,7 +24,7 @@ import java.io.File;
 import java.io.IOException;
 
 /**
- * Created by 张少昆 on 2018/3/31.
+ * Created by zengbin on 2018/3/31.
  */
 public class C01_SearchIndex {
     private static final String LOCATION = "d:/lucene";

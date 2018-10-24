@@ -5,7 +5,7 @@ import org.junit.Test;
 import java.util.concurrent.CountDownLatch;
 
 /**
- * Created by 张少昆 on 2017/9/5.
+ * Created by zengbin on 2017/9/5.
  */
 public class CountDownLatchTest {
 

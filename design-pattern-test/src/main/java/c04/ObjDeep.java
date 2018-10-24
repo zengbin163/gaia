@@ -11,7 +11,7 @@ import java.util.Date;
 /**
  * 序列化/反序列化 深拷贝
  * <p>
- * Created by 张少昆 on 2018/4/18.
+ * Created by zengbin on 2018/4/18.
  */
 public class ObjDeep implements Cloneable, Serializable {
     private String name;

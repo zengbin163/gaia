@@ -14,7 +14,7 @@ import javax.jms.TextMessage;
 import javax.jms.TopicConnection;
 
 /**
- * Created by 张少昆 on 2018/3/14.
+ * Created by zengbin on 2018/3/14.
  */
 public class JmsTest {
     @Test

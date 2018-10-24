@@ -8,7 +8,7 @@ import java.util.stream.Stream;
 /**
  * 注意重复调用和迭代计算的不同！
  * <p>
- * Created by 张少昆 on 2018/10/22.
+ * Created by zengbin on 2018/10/22.
  */
 public class GenerateAndIterateTest {
     @Test

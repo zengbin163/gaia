@@ -11,7 +11,7 @@ import java.util.concurrent.locks.ReentrantLock;
  * TODO 测试 Lock + Condition，定向选中（非唤醒）功能！
  * TODO lock本身是获取锁，而condition#await是释放锁，如果另一个线程的condition#signal，则选中这个释放了锁的线程（不代表就拥有了锁，还是要去acquire）。
  * <p>
- * Created by 张少昆 on 2018/4/17.
+ * Created by zengbin on 2018/4/17.
  */
 public class LockConditionTest {
     private ReentrantLock lock = new ReentrantLock();

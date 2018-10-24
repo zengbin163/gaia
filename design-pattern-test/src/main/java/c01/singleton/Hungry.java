@@ -6,7 +6,7 @@ package c01.singleton;
  * 优点，无任何线程安全问题；
  * 缺点，如不需要，则浪费资源；
  * <p>
- * Created by 张少昆 on 2018/4/17.
+ * Created by zengbin on 2018/4/17.
  */
 public class Hungry {
     //私有构造器

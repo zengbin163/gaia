@@ -3,7 +3,7 @@ package test.jvm.gc2;
 import java.util.concurrent.atomic.AtomicInteger;
 
 /**
- * Created by 张少昆 on 2018/5/7.
+ * Created by zengbin on 2018/5/7.
  */
 public class Object2GC {
     static AtomicInteger count = new AtomicInteger(0);

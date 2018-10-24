@@ -3,7 +3,7 @@ package test.ss.demo;
 import org.smartboot.socket.transport.AioQuickClient;
 
 /**
- * Created by 张少昆 on 2018/2/9.
+ * Created by zengbin on 2018/2/9.
  */
 public class IntegerClient {
     public static void main(String[] args) throws Exception{

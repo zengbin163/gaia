@@ -4,7 +4,7 @@ package test.jdk.lambda;
  * 测试lambda中的this以及内部类中的this。
  * 结果表明，lambda中的this是当前类的对象，而内部类的this是内部类对象。
  *
- * Created by 张少昆 on 2017/9/13.
+ * Created by zengbin on 2017/9/13.
  */
 public class ThisTest {
     public static void main(String[] args){

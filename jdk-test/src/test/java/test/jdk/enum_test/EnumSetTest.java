@@ -7,7 +7,7 @@ import java.util.EnumSet;
 /**
  * 测试下EnumSet
  * <p>
- * Created by 张少昆 on 2018/1/30.
+ * Created by zengbin on 2018/1/30.
  */
 public class EnumSetTest {
     enum Gender {MALE, FEMALE}

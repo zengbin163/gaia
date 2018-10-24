@@ -10,7 +10,7 @@ import java.util.stream.Stream;
  * FIXME 卧槽卧槽卧槽，Stream无法复用，动不动就已经被操作或者被关闭！！！
  * 还是用List吧！
  *
- * Created by 张少昆 on 2017/10/30.
+ * Created by zengbin on 2017/10/30.
  */
 
 public class QSort {

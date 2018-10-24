@@ -12,7 +12,7 @@ import java.util.List;
  * 同样，nofity()或notifyAll()也应该做类似处理。
  * 这个例子不太好，还是看WaitNotifyNotifyAllTest吧。
  * <p>
- * Created by 张少昆 on 2017/9/7.
+ * Created by zengbin on 2017/9/7.
  */
 public class WaitNotifyNotifyAllTest2 {
 	public static void main(String[] args) throws InterruptedException{

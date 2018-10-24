@@ -11,7 +11,7 @@ import java.util.LinkedHashMap;
  * TODO 比HashMap或者HashTable有序，比TreeMap高效（因为不会有重复规划） -- 当然，用途不同。
  * <b>LinkedHashSet同理</b>
  * <p>
- * Created by 张少昆 on 2018/2/9.
+ * Created by zengbin on 2018/2/9.
  */
 public class LinkedHashMapTest {
     private LinkedHashMap<Integer, String> linkedHashMap = null;

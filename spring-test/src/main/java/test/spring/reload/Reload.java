@@ -10,7 +10,7 @@ import java.time.LocalDateTime;
  * <p>
  * TODO 好在，除了web项目可以同时支持XML和注解形式，其他的都仅支持XML形式！
  * <p>
- * Created by 张少昆 on 2018/3/15.
+ * Created by zengbin on 2018/3/15.
  */
 @Component
 public class Reload {

@@ -8,7 +8,7 @@ import java.lang.ref.SoftReference;
 import java.lang.ref.WeakReference;
 
 /**
- * Created by 张少昆 on 2018/5/7.
+ * Created by zengbin on 2018/5/7.
  */
 public class ReferenceTest {
 

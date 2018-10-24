@@ -16,7 +16,7 @@ import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 /**
- * Created by 张少昆 on 2017/10/7.
+ * Created by zengbin on 2017/10/7.
  */
 public class FilesTest {
     Path path = Paths.get("d:/spring.factory.txt");

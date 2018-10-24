@@ -21,7 +21,7 @@ import org.junit.Test;
  * <p>
  * TODO 如果是io流之类的，不要用这个，请直接使用try-with-resources！
  * <p>
- * Created by 张少昆 on 2018/5/2.
+ * Created by zengbin on 2018/5/2.
  */
 public class DisappearedExceptionsTest {
     @Test

@@ -3,7 +3,7 @@ package test.netty.tour.advanced.pojo;
 import java.util.Date;
 
 /**
- * Created by 张少昆 on 2018/5/14.
+ * Created by zengbin on 2018/5/14.
  */
 public class UnixTime {
     private final long value;

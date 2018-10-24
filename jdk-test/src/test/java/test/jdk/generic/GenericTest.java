@@ -7,7 +7,7 @@ import java.util.Collection;
 import java.util.Collections;
 
 /**
- * Created by 张少昆 on 2017/10/27.
+ * Created by zengbin on 2017/10/27.
  */
 public class GenericTest {
 

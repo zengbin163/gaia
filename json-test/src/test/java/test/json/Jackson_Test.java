@@ -25,7 +25,7 @@ import java.util.TimeZone;
  * jackson自己注册了默认的日期格式！DateFormat：StdDateFormat.instance，而StdDateFormat.instance的DEFAULT_LOCALE = Locale.US。
  * <p>
  * <p>
- * Created by 张少昆 on 2017/12/11.
+ * Created by zengbin on 2017/12/11.
  */
 public class Jackson_Test {
     private StudentWithDate student; //TODO 注意这里的实体类，跟测试中的实体类可能不同

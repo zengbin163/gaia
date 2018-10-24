@@ -6,7 +6,7 @@ import org.junit.Test;
  * TODO 结论：Integer.valueOf及相关的方法得到的Integer，才有可能获取cache。前提[-128, high]
  * TODO high可以指定，默认127。
  * <p>
- * Created by 张少昆 on 2018/3/30.
+ * Created by zengbin on 2018/3/30.
  */
 public class IntegerTest {
     @Test

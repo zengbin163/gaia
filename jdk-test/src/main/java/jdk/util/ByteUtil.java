@@ -3,7 +3,7 @@ package jdk.util;
 import java.nio.charset.Charset;
 
 /**
- * Created by 张少昆 on 2017/12/19.
+ * Created by zengbin on 2017/12/19.
  */
 public class ByteUtil {
     /**

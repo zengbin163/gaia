@@ -7,7 +7,7 @@ import java.util.concurrent.ConcurrentHashMap;
  * ConcurrentHashMap可以做到读取数据不加锁，提高了并发能力。
  * 我们先不考虑内存元素回收或者在保存数据会出现内存溢出的情况，我们用ConcurrentHashMap模拟本地缓存，当在高并发环境一下，会出现一些什么问题？
  * <p>
- * Created by 张少昆 on 2017/9/13.
+ * Created by zengbin on 2017/9/13.
  */
 public class TestConcurrentHashMapCache<K, V> {
 	private final ConcurrentHashMap<K, V> cacheMap = new ConcurrentHashMap<>();

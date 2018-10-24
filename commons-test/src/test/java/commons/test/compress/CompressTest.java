@@ -13,7 +13,7 @@ import java.util.zip.Deflater;
 import java.util.zip.ZipEntry;
 
 /**
- * Created by 张少昆 on 2017/12/13.
+ * Created by zengbin on 2017/12/13.
  */
 public class CompressTest {
 

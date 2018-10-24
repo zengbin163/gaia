@@ -8,7 +8,7 @@ import java.util.Objects;
 import java.util.Random;
 
 /**
- * Created by 张少昆 on 2018/4/6.
+ * Created by zengbin on 2018/4/6.
  */
 public class GenericMethodTest {
     @Test

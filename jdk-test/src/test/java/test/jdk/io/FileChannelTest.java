@@ -12,7 +12,7 @@ import java.nio.file.StandardOpenOption;
 /**
  * FileChannel是abstract！
  * <p>
- * Created by 张少昆 on 2018/5/13.
+ * Created by zengbin on 2018/5/13.
  */
 public class FileChannelTest {
     @Test

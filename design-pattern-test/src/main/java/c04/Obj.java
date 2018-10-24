@@ -3,7 +3,7 @@ package c04;
 import java.util.Date;
 
 /**
- * Created by 张少昆 on 2018/4/18.
+ * Created by zengbin on 2018/4/18.
  */
 public class Obj implements Cloneable {
     private String name;

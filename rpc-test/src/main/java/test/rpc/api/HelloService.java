@@ -3,7 +3,7 @@ package test.rpc.api;
 import test.rpc.pojo.User;
 
 /**
- * Created by 张少昆 on 2018/10/20.
+ * Created by zengbin on 2018/10/20.
  */
 public interface HelloService {
     /**

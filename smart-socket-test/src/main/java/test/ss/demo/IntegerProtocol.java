@@ -8,7 +8,7 @@ import java.nio.ByteBuffer;
 /**
  * 编写协议，很好很强大
  * <p>
- * Created by 张少昆 on 2018/2/9.
+ * Created by zengbin on 2018/2/9.
  */
 public class IntegerProtocol implements Protocol<Integer> {
 

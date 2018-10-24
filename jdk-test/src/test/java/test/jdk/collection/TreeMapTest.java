@@ -9,7 +9,7 @@ import java.util.TreeMap;
 /**
  * TODO TreeMap 是有序的，但这个有序是针对key来说的。所以，还可以在构建map的时候指定比较器！
  * <p>
- * Created by 张少昆 on 2018/2/9.
+ * Created by zengbin on 2018/2/9.
  */
 public class TreeMapTest {
     TreeMap<Integer, String> treeMap = null;

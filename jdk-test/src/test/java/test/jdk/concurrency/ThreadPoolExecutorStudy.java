@@ -15,7 +15,7 @@ import java.util.concurrent.atomic.AtomicInteger;
  * <p>
  * https://www.jianshu.com/p/a5a21d48678a
  * <p>
- * Created by 张少昆 on 2018/5/19.
+ * Created by zengbin on 2018/5/19.
  */
 public class ThreadPoolExecutorStudy {
     private final AtomicInteger ctl = new AtomicInteger(ctlOf(RUNNING, 0));

@@ -4,7 +4,7 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
 import test.spring.config.MyTask;
 
 /**
- * Created by 张少昆 on 2018/1/31.
+ * Created by zengbin on 2018/1/31.
  */
 public class Main {
     public static void main(String[] args) throws InterruptedException{

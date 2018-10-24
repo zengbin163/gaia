@@ -23,7 +23,7 @@ import java.util.Map;
  * compact()方法只会清除已经读过的数据,任何未读的数据都被移到缓冲区的起始处，新写入的数据将放到缓冲区未读数据的后面。
  *
  * <p>
- * Created by 张少昆 on 2017/10/9.
+ * Created by zengbin on 2017/10/9.
  */
 public class BufferTest {
 

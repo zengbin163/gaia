@@ -14,7 +14,7 @@ import reactor.core.scheduler.Schedulers;
  * <p>
  * Flux，提供了少数配置方法，用于控制线程边界。例如，你可以配置使用一个背景线程：Flux.subscribeOn()
  * <p>
- * Created by 张少昆 on 2018/3/5.
+ * Created by zengbin on 2018/3/5.
  */
 public class C01_thread {
     //使用单线程（非主线程）完成任务

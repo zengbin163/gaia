@@ -7,7 +7,7 @@ import org.smartboot.socket.transport.AioSession;
 /**
  * 客户端
  * <p>
- * Created by 张少昆 on 2018/2/9.
+ * Created by zengbin on 2018/2/9.
  */
 public class IntegerClientProcessor implements MessageProcessor<Integer> {
     private AioSession<Integer> session;

@@ -3,7 +3,7 @@ package test.jdk.math;
 import org.junit.Test;
 
 /**
- * Created by 张少昆 on 2017/10/9.
+ * Created by zengbin on 2017/10/9.
  */
 public class BasicTest {
 

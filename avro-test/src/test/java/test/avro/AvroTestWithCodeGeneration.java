@@ -19,7 +19,7 @@ import java.io.IOException;
  * <p>
  * (using a builder requires setting all fields, even if they are null)
  * <p>
- * Created by 张少昆 on 2018/4/29.
+ * Created by zengbin on 2018/4/29.
  */
 public class AvroTestWithCodeGeneration {
     File file = new File("users.avro");

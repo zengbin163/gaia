@@ -7,7 +7,7 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 
 /**
- * Created by 张少昆 on 2018/5/20.
+ * Created by zengbin on 2018/5/20.
  */
 public class Rename {
     public static void main(String[] args){

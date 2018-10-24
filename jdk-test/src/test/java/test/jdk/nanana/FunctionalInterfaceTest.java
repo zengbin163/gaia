@@ -6,7 +6,7 @@ import java.io.Serializable;
 import java.util.Date;
 
 /**
- * Created by 张少昆 on 2018/4/27.
+ * Created by zengbin on 2018/4/27.
  */
 public class FunctionalInterfaceTest {
     @Test

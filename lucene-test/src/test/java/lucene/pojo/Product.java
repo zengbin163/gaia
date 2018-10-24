@@ -3,7 +3,7 @@ package lucene.pojo;
 import java.util.Date;
 
 /**
- * Created by 张少昆 on 2018/3/30.
+ * Created by zengbin on 2018/3/30.
  */
 public class Product {
     private int pid;

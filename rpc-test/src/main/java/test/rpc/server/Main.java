@@ -3,7 +3,7 @@ package test.rpc.server;
 import test.rpc.server.service.HelloServiceImpl;
 
 /**
- * Created by 张少昆 on 2018/10/20.
+ * Created by zengbin on 2018/10/20.
  */
 public class Main {
     public static void main(String[] args){

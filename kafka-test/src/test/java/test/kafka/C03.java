@@ -7,7 +7,7 @@ import java.util.concurrent.CountDownLatch;
 /**
  * @link test.jdk.nanana.LimitTest
  *
- * Created by 张少昆 on 2018/4/26.
+ * Created by zengbin on 2018/4/26.
  */
 @Deprecated
 public class C03 {

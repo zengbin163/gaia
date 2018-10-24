@@ -7,7 +7,7 @@ import java.util.StringTokenizer;
 /**
  * 看说明，这是一个历史遗留类，新版建议使用String#split！
  * <p>
- * Created by 张少昆 on 2018/5/8.
+ * Created by zengbin on 2018/5/8.
  */
 public class StringTokenizerTest {
     String str = "1\tfake record1\t2018-04-20 14:16:27\t2018-04-20 14:17:05\t2018-04-20 14:16:31\t\t0\t0\t0\tselect * from hehe;\t/tmp/log/\t2\t319\tfake record1\n" +

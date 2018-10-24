@@ -6,7 +6,7 @@ import org.junit.Test;
  * TODO thread.join() 可保证顺序执行。
  * TODO 其原理是：join会拿到锁，然后wait！Waits for this thread to die.
  * <p>
- * Created by 张少昆 on 2018/3/17.
+ * Created by zengbin on 2018/3/17.
  */
 public class JoinTest {
     @Test

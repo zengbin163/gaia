@@ -14,7 +14,7 @@ import java.net.InetSocketAddress;
 import java.util.Date;
 
 /**
- * Created by 张少昆 on 2017/12/6 0006.
+ * Created by zengbin on 2017/12/6 0006.
  */
 public class MinaService {
 	public static void main(String[] args){

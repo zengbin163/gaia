@@ -7,7 +7,7 @@ import java.net.Socket;
 
 /**
  * 传输层
- * Created by 张少昆 on 2018/10/20.
+ * Created by zengbin on 2018/10/20.
  */
 public class TransferLayer {
     private String host;

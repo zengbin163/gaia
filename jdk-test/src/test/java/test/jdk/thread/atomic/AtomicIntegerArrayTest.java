@@ -9,7 +9,7 @@ import java.util.stream.IntStream;
  * TODO AtomicIntegerArray类需要注意的是，数组value通过构造方法传递进去，然后AtomicIntegerArray会将当前数组复制一份，
  * TODO 所以当AtomicIntegerArray对内部的数组元素进行修改时，<b>不会影响到传入的数组</b>。
  * <p>
- * Created by 张少昆 on 2018/5/13.
+ * Created by zengbin on 2018/5/13.
  */
 public class AtomicIntegerArrayTest {
 

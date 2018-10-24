@@ -13,7 +13,7 @@ import java.util.concurrent.atomic.AtomicMarkableReference;
  * <p>
  * 内部实现是靠内部类Pair
  * <p>
- * Created by 张少昆 on 2018/5/13.
+ * Created by zengbin on 2018/5/13.
  */
 public class AtomicMarkableReferenceTest {
 

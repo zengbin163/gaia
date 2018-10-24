@@ -13,7 +13,7 @@ import java.util.function.Supplier;
 /**
  * ref: http://blog.csdn.net/tangyongzhe/article/details/49851769
  * <p>
- * Created by 张少昆 on 2017/10/7.
+ * Created by zengbin on 2017/10/7.
  */
 public class CompletableFutureTest {
 

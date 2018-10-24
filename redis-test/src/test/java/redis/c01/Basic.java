@@ -7,7 +7,7 @@ import redis.clients.jedis.Protocol;
 import redis.clients.util.Pool;
 
 /**
- * Created by 张少昆 on 2018/4/3.
+ * Created by zengbin on 2018/4/3.
  */
 public class Basic {
 

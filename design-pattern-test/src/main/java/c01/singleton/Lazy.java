@@ -6,7 +6,7 @@ package c01.singleton;
  * 优点：懒加载；
  * 缺点：每次调用都要同步，并发效率低。
  * <p>
- * Created by 张少昆 on 2018/4/17.
+ * Created by zengbin on 2018/4/17.
  */
 public class Lazy {
     // 私有化构造器

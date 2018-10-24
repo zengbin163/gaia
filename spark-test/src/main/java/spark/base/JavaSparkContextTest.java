@@ -8,7 +8,7 @@ import spark.util.LoggerUtils;
 /**
  * 比SparkContext友好，貌似屏蔽了一些sparkcontext的scala方法
  * <p>
- * Created by 张少昆 on 2018/4/28.
+ * Created by zengbin on 2018/4/28.
  */
 public class JavaSparkContextTest {
     public static void main(String[] args){

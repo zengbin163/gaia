@@ -11,7 +11,7 @@ import java.util.concurrent.Executors;
 /**
  * TODO 奇怪，有问题，不能启动，不应该放在 src/test下面。
  * TODO 已移动至 count-test模块中。
- * Created by 张少昆 on 2017/9/13.
+ * Created by zengbin on 2017/9/13.
  */
 public class TokenBucket {
     private static final ConcurrentHashMap<String, RateLimiter> LIMITER_CONCURRENT_MAP = new ConcurrentHashMap<String, RateLimiter>();

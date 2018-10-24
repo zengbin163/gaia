@@ -9,7 +9,7 @@ package c01.singleton;
  * <p>
  * TODO 关键：外部类不能有static属性！
  * <p>
- * Created by 张少昆 on 2018/4/17.
+ * Created by zengbin on 2018/4/17.
  */
 public class StaticInnerClass {
     private StaticInnerClass(){

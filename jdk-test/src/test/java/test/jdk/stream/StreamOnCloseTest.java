@@ -9,7 +9,7 @@ import java.util.Random;
 import java.util.stream.IntStream;
 
 /**
- * Created by 张少昆 on 2018/5/3.
+ * Created by zengbin on 2018/5/3.
  */
 public class StreamOnCloseTest {
 

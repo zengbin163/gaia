@@ -11,7 +11,7 @@ import java.nio.file.Paths;
 /**
  * Path，取代了File。
  * <p>
- * Created by 张少昆 on 2017/10/7.
+ * Created by zengbin on 2017/10/7.
  */
 public class PathTest {
     @Test

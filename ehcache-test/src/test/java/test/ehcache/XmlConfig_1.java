@@ -12,7 +12,7 @@ import org.junit.Test;
 import java.net.URL;
 
 /**
- * Created by 张少昆 on 2017/12/28.
+ * Created by zengbin on 2017/12/28.
  */
 public class XmlConfig_1 {
     private CacheManager cacheManager = null;

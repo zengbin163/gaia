@@ -1,7 +1,7 @@
 package test.jdk.lambda.more;
 
 /**
- * Created by 张少昆 on 2018/3/6.
+ * Created by zengbin on 2018/3/6.
  */
 public class SomeClass {
 

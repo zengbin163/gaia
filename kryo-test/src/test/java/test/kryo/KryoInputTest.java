@@ -9,7 +9,7 @@ import java.nio.charset.Charset;
 /**
  * 关于Input，所有的读取方法，都是从buffer（内置byte[]）中读取的，但是，会检查，可能先从inputstream中填充到buffer中！
  * <p>
- * Created by 张少昆 on 2018/4/29.
+ * Created by zengbin on 2018/4/29.
  */
 public class KryoInputTest {
 

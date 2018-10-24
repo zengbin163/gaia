@@ -3,7 +3,7 @@ package test.jdk.unicode;
 import org.junit.Test;
 
 /**
- * Created by 张少昆 on 2018/8/9.
+ * Created by zengbin on 2018/8/9.
  */
 public class UnicodeTest {
     private final String s1 = "我爱你中国！i love u china!";

@@ -13,7 +13,7 @@ import java.io.OutputStream;
 /**
  * 注意，JDK7的try-with-resource已经可以自动关闭了，所以不需要guava closer了！
  * <p>
- * Created by 张少昆 on 2017/10/15.
+ * Created by zengbin on 2017/10/15.
  */
 public class CloserTest {
     @Test

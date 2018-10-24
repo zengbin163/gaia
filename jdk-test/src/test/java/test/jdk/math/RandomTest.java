@@ -20,7 +20,7 @@ import java.util.Random;
  * 10个数字1 2 代表1，3 4 5代表3， 6 7 8 9 10代表数字5，从而产生一定概率的随机数字
  * <p>
  * <p>
- * Created by 张少昆 on 2018/5/24.
+ * Created by zengbin on 2018/5/24.
  */
 public class RandomTest {
 

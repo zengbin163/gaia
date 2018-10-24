@@ -3,7 +3,7 @@ package jdk.load;
 /**
  * http://www.cnblogs.com/larryzeal/p/8135628.html
  *
- * Created by 张少昆 on 2017/12/28.
+ * Created by zengbin on 2017/12/28.
  */
 public class A {
     private static A a = new A();

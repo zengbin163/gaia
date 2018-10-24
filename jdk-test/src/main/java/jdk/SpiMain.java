@@ -11,7 +11,7 @@ import java.util.ServiceLoader;
  * 某种意义上，类似反射。
  * 可以指定一个，也可以指定多个。有意思。
  * <p>
- * Created by 张少昆 on 2017/11/25.
+ * Created by zengbin on 2017/11/25.
  */
 public class SpiMain {
     public static void main(String[] args){

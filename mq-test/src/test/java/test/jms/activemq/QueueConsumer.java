@@ -15,7 +15,7 @@ import java.io.IOException;
 /**
  * TODO 说明，配合window版本的activeMQ（命令：activemq.bat start），可以直接测试！
  * <p>
- * Created by 张少昆 on 2018/3/17.
+ * Created by zengbin on 2018/3/17.
  */
 public class QueueConsumer {
     private static final String BROKER_URL = "tcp://127.0.0.1:61616";

@@ -14,7 +14,7 @@ import java.util.concurrent.FutureTask;
 
  我们解决了高并发访问缓存的问题，可回收元素这些都没有，容易造成内存溢出，Google Guava Cache在这些问题方面都做得挺好的。
 
- * Created by 张少昆 on 2017/9/13.
+ * Created by zengbin on 2017/9/13.
  */
 public class TestFutureCahe<K, V> {
 	private final ConcurrentHashMap<K, Future<V>> cacheMap = new ConcurrentHashMap<>();

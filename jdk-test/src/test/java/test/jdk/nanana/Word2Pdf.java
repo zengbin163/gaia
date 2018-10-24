@@ -8,7 +8,7 @@
 // /**
 //  * dll文件，放在jdk文件下面的bin目录下
 //  *
-//  * Created by 张少昆 on 2018/5/15.
+//  * Created by zengbin on 2018/5/15.
 //  */
 // public class Word2Pdf {
 //

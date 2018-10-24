@@ -7,7 +7,7 @@ package test.jvm.gc;
  * <p>
  * TODO 这里仅作测试，正常情况下不要使用该方法！
  * <p>
- * Created by 张少昆 on 2018/3/23.
+ * Created by zengbin on 2018/3/23.
  */
 public class FinalizeEscapeGC {
     public static FinalizeEscapeGC OO = null;

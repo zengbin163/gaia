@@ -3,7 +3,7 @@ package test.cache;
 import java.util.concurrent.ConcurrentHashMap;
 
 /**
- * Created by 张少昆 on 2017/9/13.
+ * Created by zengbin on 2017/9/13.
  */
 public class TestConcurrentHashMapCache2<K, V> {
 	private final ConcurrentHashMap<K, V> cacheMap = new ConcurrentHashMap<>();

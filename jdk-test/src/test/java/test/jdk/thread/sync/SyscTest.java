@@ -7,7 +7,7 @@ import java.io.IOException;
 /**
  * 测试变量作为Lock是否可靠。
  * <p>
- * Created by 张少昆 on 2018/4/23.
+ * Created by zengbin on 2018/4/23.
  */
 public class SyscTest {
     String lock = "123";

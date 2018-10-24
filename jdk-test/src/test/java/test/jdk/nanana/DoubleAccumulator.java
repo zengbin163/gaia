@@ -5,7 +5,7 @@ import org.junit.Test;
 import java.util.concurrent.atomic.AtomicReference;
 
 /**
- * Created by 张少昆 on 2018/6/28.
+ * Created by zengbin on 2018/6/28.
  */
 public class DoubleAccumulator {
     static class AD{

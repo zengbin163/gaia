@@ -15,7 +15,7 @@ import org.springframework.scheduling.annotation.Scheduled;
  * If neither of the two is resolvable, a local single-threaded default scheduler will be created and used within the registrar.
  * 一句话，需要设置taskScheduler和ScheduledExecutorService，否则使用单线程执行调度。
  * <p>
- * Created by 张少昆 on 2018/1/31.
+ * Created by zengbin on 2018/1/31.
  */
 @Configuration
 @EnableAsync

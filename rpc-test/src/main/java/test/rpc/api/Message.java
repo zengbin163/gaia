@@ -7,7 +7,7 @@ import java.io.Serializable;
 /**
  * Message or Request
  * <p>
- * Created by 张少昆 on 2018/10/20.
+ * Created by zengbin on 2018/10/20.
  */
 @Data
 public class Message implements Serializable {

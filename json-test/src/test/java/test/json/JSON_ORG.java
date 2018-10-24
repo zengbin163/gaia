@@ -27,7 +27,7 @@ import java.util.Optional;
  * 四种构造JSONObject对象的方式：直接put添加kv、使用map构造、使用javabean构造、使用json字符串构造！
  * 可惜的是，无法将json字符串转成java bean！
  * <p>
- * Created by 张少昆 on 2017/12/8.
+ * Created by zengbin on 2017/12/8.
  */
 public class JSON_ORG {
     @Test

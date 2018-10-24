@@ -10,7 +10,7 @@ import javax.jms.MessageListener;
 import javax.jms.Session;
 
 /**
- * Created by 张少昆 on 2018/3/14.
+ * Created by zengbin on 2018/3/14.
  */
 /**
  * 测试使用JMS API连接ActiveMQ

@@ -9,7 +9,7 @@ import java.util.concurrent.CountDownLatch;
  * <p>
  * 但是，经过测试，貌似无影响啊？哪怕加大线程内循环的次数，结果也没什么影响。
  * <p>
- * Created by 张少昆 on 2018/4/17.
+ * Created by zengbin on 2018/4/17.
  */
 public class Check {
     public static void main(String[] args){

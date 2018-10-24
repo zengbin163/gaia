@@ -14,7 +14,7 @@ import java.util.concurrent.atomic.AtomicStampedReference;
  * AtomicStampedReference是使用pair的int stamp作为计数器使用，AtomicMarkableReference的pair使用的是boolean mark。
  * 还是那个水的例子，AtomicStampedReference可能关心的是动过几次，AtomicMarkableReference关心的是有没有被人动过，方法都比较简单。
  * <p>
- * Created by 张少昆 on 2018/5/13.
+ * Created by zengbin on 2018/5/13.
  */
 public class AtomicStampReferenceTest {
 

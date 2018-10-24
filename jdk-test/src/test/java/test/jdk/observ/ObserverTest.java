@@ -6,7 +6,7 @@ import java.util.Observable;
 import java.util.Observer;
 
 /**
- * Created by 张少昆 on 2017/12/8.
+ * Created by zengbin on 2017/12/8.
  */
 public class ObserverTest {
 

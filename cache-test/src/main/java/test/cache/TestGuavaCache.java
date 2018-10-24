@@ -7,7 +7,7 @@ import java.util.concurrent.ExecutionException;
 import java.util.concurrent.TimeUnit;
 
 /**
- * Created by 张少昆 on 2017/9/13.
+ * Created by zengbin on 2017/9/13.
  */
 public class TestGuavaCache<K, V> {
 	private Cache<K, V> cache = CacheBuilder.newBuilder().maximumSize(2).expireAfterWrite(10, TimeUnit.MINUTES).build();

@@ -7,7 +7,7 @@ import java.util.concurrent.atomic.AtomicLongFieldUpdater;
 /**
  * AtomicIntegerFieldUpdater, AtomicLongFieldUpdater和AtomicReferenceFieldUpdater
  * <p>
- * Created by 张少昆 on 2018/5/11.
+ * Created by zengbin on 2018/5/11.
  */
 public class AtomicLongFieldUpdaterTest {
     @Test

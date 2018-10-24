@@ -8,7 +8,7 @@ package jdk.load;
  * TODO 总之，只需要考虑到"依赖满足"即可 - 是各种可能情况下都符合的依赖满足！
  * TODO http://www.cnblogs.com/larryzeal/p/8135628.html
  * <p>
- * Created by 张少昆 on 2017/12/28.
+ * Created by zengbin on 2017/12/28.
  */
 public class ByteCodeTest {
     private static int k = 0;

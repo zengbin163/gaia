@@ -20,7 +20,7 @@ import java.net.URL;
  * 异常：http://help.163.com/09/1224/17/5RAJ4LMH00753VB8.html
  * <p>
  *     TODO 发送失败会退回到发送人，或者自行设定。因此，需要根据收件箱判断是否发送成功！！！
- * Created by 张少昆 on 2017/12/20.
+ * Created by zengbin on 2017/12/20.
  */
 public class EmailTest {
     // http://help.163.com/09/1223/14/5R7P6CJ600753VB8.html

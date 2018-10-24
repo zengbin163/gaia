@@ -22,7 +22,7 @@ import java.util.concurrent.TimeUnit;
  * <p>
  * TODO 经验：不能使用try-with-resources，否则会自动关闭链接，很麻烦。
  * <p>
- * Created by 张少昆 on 2018/5/20.
+ * Created by zengbin on 2018/5/20.
  */
 public class BioPollTest {
 

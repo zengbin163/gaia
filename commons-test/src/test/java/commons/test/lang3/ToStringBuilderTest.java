@@ -12,7 +12,7 @@ import org.junit.Test;
  * TODO 注意，还可以new ToStringBuilder(this).append(..)...build()!!!  可以用在toString()中！
  * <p>
  * <p>
- * Created by 张少昆 on 2017/12/11.
+ * Created by zengbin on 2017/12/11.
  */
 public class ToStringBuilderTest {
     private User user;

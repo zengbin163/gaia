@@ -18,7 +18,7 @@ import java.util.List;
  * 所谓Local，就是不考虑时区TimeZone。
  * 生日、假期、会议时间等，最好使用本地日期或时间来表示。
  * <p>
- * Created by 张少昆 on 2017/10/6.
+ * Created by zengbin on 2017/10/6.
  */
 public class LocalDateTest {
     @Test

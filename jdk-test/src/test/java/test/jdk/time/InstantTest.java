@@ -11,7 +11,7 @@ import java.time.Instant;
  * 需要说明的是：java.time包下的涉及日期时间的类，其对象都是不可变的！
  * 这点与java.util.Date不同。
  * <p>
- * Created by 张少昆 on 2017/10/6.
+ * Created by zengbin on 2017/10/6.
  */
 public class InstantTest {
     @Test

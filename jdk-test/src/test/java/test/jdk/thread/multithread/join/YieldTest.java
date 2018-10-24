@@ -7,7 +7,7 @@ import java.time.LocalDateTime;
 /**
  * TODO thread.yield()，让出！就是让正在执行的线程让出CPU！但仅仅是个暗示，可以被忽略！
  * <p>
- * Created by 张少昆 on 2018/3/17.
+ * Created by zengbin on 2018/3/17.
  */
 public class YieldTest {
     @Test

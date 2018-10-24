@@ -13,7 +13,7 @@ import java.util.concurrent.FutureTask;
  * guava/netty 等 都提供了自己的异步框架！
  * jdk8的CompletableFuture也比较好！
  *
- * Created by 张少昆 on 2017/10/7.
+ * Created by zengbin on 2017/10/7.
  */
 public class FutureTest {
     @Test

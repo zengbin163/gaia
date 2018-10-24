@@ -15,7 +15,7 @@ import java.util.Set;
 /**
  * 哈 给人做个东西，结果。。。冏就是了
  *
- * Created by 张少昆 on 2017/12/11.
+ * Created by zengbin on 2017/12/11.
  */
 public class SomeTest {
     private final double[] referFreq = {

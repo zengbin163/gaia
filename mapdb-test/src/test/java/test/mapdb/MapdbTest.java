@@ -5,7 +5,7 @@ import org.mapdb.DB;
 import org.mapdb.DBMaker;
 
 /**
- * Created by 张少昆 on 2018/3/2.
+ * Created by zengbin on 2018/3/2.
  */
 public class MapdbTest {
 

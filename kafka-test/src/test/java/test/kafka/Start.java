@@ -12,7 +12,7 @@ import java.util.concurrent.ExecutionException;
 import java.util.concurrent.Future;
 
 /**
- * Created by 张少昆 on 2017/10/19.
+ * Created by zengbin on 2017/10/19.
  */
 public class Start {
 	private static final String HOST = "192.168.101.252:9092";

@@ -10,7 +10,7 @@ import java.net.URI;
  * TODO: 需要搭建terracotta服务器！
  * http://www.ehcache.org/documentation/3.4/clustered-cache.html#starting-server
  * <p>
- * Created by 张少昆 on 2017/12/28.
+ * Created by zengbin on 2017/12/28.
  */
 public class JavaClusterConfig_1 {
     public void r1(){

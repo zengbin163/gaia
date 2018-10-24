@@ -7,7 +7,7 @@ import java.io.DataInputStream;
 import java.io.IOException;
 
 /**
- * Created by 张少昆 on 2017/12/19.
+ * Created by zengbin on 2017/12/19.
  */
 public class Whatever {
     //帧头 2字节 0x7d 0x7b

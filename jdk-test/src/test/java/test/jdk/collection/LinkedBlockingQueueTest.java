@@ -13,7 +13,7 @@ import java.util.concurrent.TimeUnit;
  * 性能一般比基于数组的阻塞式队列高。
  * TODO 注意，所有BlockingQueue实现的操作在不满足条件时都有四种类型：异常；返回指定值（null/false）；等待；等待指定时间。
  * <p>
- * Created by 张少昆 on 2018/2/8.
+ * Created by zengbin on 2018/2/8.
  */
 public class LinkedBlockingQueueTest {
     private LinkedBlockingQueue<Integer> linkedBlockingQueue = null;

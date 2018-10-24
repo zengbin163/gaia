@@ -10,7 +10,7 @@ import java.io.IOException;
  * <p>
  * 注意，是2.x。
  * <p>
- * Created by 张少昆 on 2017/12/13.
+ * Created by zengbin on 2017/12/13.
  */
 public class Configuration2Test {
     @Test

@@ -6,7 +6,7 @@ import org.junit.Test;
  * 测试某个类的静态变量被继承后，是否所有继承类都是这个静态变量！
  * 结果：是！
  * <p>
- * Created by 张少昆 on 2018/3/25.
+ * Created by zengbin on 2018/3/25.
  */
 public class S2 extends P {
     @Test

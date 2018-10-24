@@ -3,7 +3,7 @@ package test.jdk.nanana;
 import org.junit.Test;
 
 /**
- * Created by 张少昆 on 2018/5/15.
+ * Created by zengbin on 2018/5/15.
  */
 public class HashCodeTest {
 

@@ -9,7 +9,7 @@ import java.util.BitSet;
  * BitSet是个很有意思的东西。
  * 应用场景：统计，如出现过（或者没有出现过）哪些数字 - 还可以将其排序，按照大小列出来！
  * <p>
- * Created by 张少昆 on 2017/10/22 0022.
+ * Created by zengbin on 2017/10/22 0022.
  */
 public class BitSetTest {
 

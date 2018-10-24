@@ -9,7 +9,7 @@ import java.util.Date;
  * 二者结果，先gc，再runFinalize，会立即清理内存!
  * gc(); runFinalize(); 它会立即清理内存
  * <p>
- * Created by 张少昆 on 2018/5/7.
+ * Created by zengbin on 2018/5/7.
  */
 public class FinalizeTest {
 

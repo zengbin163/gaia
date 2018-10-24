@@ -15,7 +15,7 @@ import java.nio.file.StandardOpenOption;
  * <p>
  * 本例的用法：编译后，在命令行中同时执行两次（同时write或者同时read，混合的暂时没厘清）。
  * <p>
- * Created by 张少昆 on 2018/5/13.
+ * Created by zengbin on 2018/5/13.
  */
 public class FileLockTest {
 

@@ -15,7 +15,7 @@ import java.util.concurrent.locks.ReentrantReadWriteLock;
  * TODO 读锁、写锁，都是实现了Lock！但是读锁不支持Condition！
  * TODO 读共享，写唯一，读写还互斥
  * <p>
- * Created by 张少昆 on 2018/4/17.
+ * Created by zengbin on 2018/4/17.
  */
 public class ReentrantReadWriteLockTest {
     private ReentrantReadWriteLock lock = new ReentrantReadWriteLock();

@@ -19,7 +19,7 @@ import java.time.LocalDateTime;
 /**
  * 扔掉所有接收到的消息，且不作响应！
  * <p>
- * Created by 张少昆 on 2018/5/14.
+ * Created by zengbin on 2018/5/14.
  */
 public class DiscardServer {
     private int port;

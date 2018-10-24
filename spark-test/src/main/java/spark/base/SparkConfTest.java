@@ -7,7 +7,7 @@ import scala.Tuple2;
 import spark.util.LoggerUtils;
 
 /**
- * Created by 张少昆 on 2018/4/27.
+ * Created by zengbin on 2018/4/27.
  */
 public class SparkConfTest {
     public static void main(String[] args){

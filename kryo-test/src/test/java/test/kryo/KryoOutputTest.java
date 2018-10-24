@@ -11,7 +11,7 @@ import java.io.FileOutputStream;
  * <p>
  * 请注意，只有flush了才会输出到OutputStream，否则一直存在于buffer中！
  * <p>
- * Created by 张少昆 on 2018/4/29.
+ * Created by zengbin on 2018/4/29.
  */
 public class KryoOutputTest {
 
