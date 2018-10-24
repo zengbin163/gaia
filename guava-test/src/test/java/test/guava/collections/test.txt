@@ -1,0 +1,13 @@
+	/**
+	 * 有个坑，@Test，其输出，可能不是。。。
+	 */
+	@Test
+	public void r2(){
+		File file = new File(getClass().getResource("GuavaCollectionTest.class").getFile());
+		try{
+			List<String> list = Files.readLines(file, Charset.forName("utf-8"));
+			System.out.println(list);
+		} catch(IOException e){
+			e.printStackTrace();
+		}
+	}
