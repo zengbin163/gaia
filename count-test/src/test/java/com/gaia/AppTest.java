@@ -1,4 +1,4 @@
-package win.larryzeal.test;
+package com.gaia;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

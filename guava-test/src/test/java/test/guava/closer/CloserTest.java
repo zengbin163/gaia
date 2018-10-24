@@ -20,7 +20,7 @@ public class CloserTest {
     public void r1(){
         InputStream in = null;
         try{
-            in = new BufferedInputStream(new FileInputStream("D:\\Workspace\\IdeaProjects\\test-parent\\guava-test\\src\\test\\java\\test\\guava\\closer\\CloserTest.java"));
+            in = new BufferedInputStream(new FileInputStream("D:\\Workspace\\IdeaProjects\\gaia-parent\\guava-test\\src\\test\\java\\test\\guava\\closer\\CloserTest.java"));
             System.out.println("1");
         } catch(FileNotFoundException e){
             e.printStackTrace();

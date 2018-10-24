@@ -1,4 +1,4 @@
-package win.larryzeal.test;
+package com.gaia;
 
 import com.google.common.util.concurrent.RateLimiter;
 

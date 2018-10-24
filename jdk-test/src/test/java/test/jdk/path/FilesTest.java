@@ -50,7 +50,7 @@ public class FilesTest {
     //TODO 一定要注意URL解码！！！！
     @Test
     public void r4() throws UnsupportedEncodingException{
-        String f = "/D:/My%20Space/IDEA/web-test-parent/ztree-test/target/classes/test";
+        String f = "/D:/My%20Space/IDEA/web-gaia-parent/ztree-test/target/classes/test";
         File file = new File(URLDecoder.decode(f,"UTF-8")); //奇怪，为什么访问不到？？
         System.out.println(file.isFile());
         System.out.println(file.isDirectory());
